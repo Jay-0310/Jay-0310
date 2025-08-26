@@ -1,30 +1,34 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="300"/>
-</div>
-
 <div id="header" align="center">
   <h1>
     Greetings, I'm Jay T-Hacker 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>A B.Tech student from Mumbai, India, crafting code and crunching data.</h3>
 </div>
+
+> A B.Tech student from **Mumbai, India**, weaving logic with data to build intelligent solutions.
+>
+> ---
+>
+> 🎓 Pursuing Computer Engineering @ **KJ Somaiya School of Engineering**
+> <br>
+> 💡 Exploring the worlds of **Data Science, AI & Machine Learning**
+> <br>
+> 🌱 Currently focused on **Web Development** and **Data Analysis**
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me
 
-I am a first-year **B.Tech Computer Engineering** student at **KJ Somaiya School of Engineering**, with a deep passion for decoding the stories hidden within data. My journey is fueled by a fascination with **Data Science 📈, Artificial Intelligence 🤖, and Machine Learning 🧠**. I thrive on algorithmic challenges and enjoy building projects that are both fun and functional.
+I am a first-year Computer Engineering student driven by a fascination for decoding the stories hidden within data. I thrive on algorithmic challenges and am passionate about building projects that are both fun and functional.
 
-- 🌱 I'm currently diving deeper into **Web Development** and mastering **Pandas & SQL** for data analysis.
-- 🎯 Future Goal: To build innovative **AI-based tools for education** and master the full data science lifecycle.
-- ⚡ Fun fact: My name is Thacker, but you can call me "T-Hacker"—I promise my intentions are purely for code and data!
+-   **Future Goal:** To build innovative **AI-based tools for education** and master the full data science lifecycle.
+-   **Fun Fact:** My name is Thacker, but you can call me "T-Hacker"—I promise my intentions are purely for code and data!
 
 ---
 
 ### 🛠️ My Tech Stack
 
-Here are the technologies I'm proficient with. I'm always eager to learn more!
+A snapshot of the languages, libraries, and tools I'm proficient with. I'm always eager to learn more!
 
 <p align="center">
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -74,7 +78,6 @@ Here are the technologies I'm proficient with. I'm always eager to learn more!
 Feel free to reach out for collaborations, questions, or just a friendly chat.
 
 <p align="center">
-<p align="center">
   <a href="mailto:jaythakkar0310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/jay-thacker-0a98102a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/JayThacker0310"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/></a>
@@ -83,5 +86,4 @@ Feel free to reach out for collaborations, questions, or just a friendly chat.
   <a href="https://leetcode.com/u/Jay_0310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.hackerrank.com/profile/j_thacker"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <a href="https://drive.google.com/file/d/1WotaGf09BbsupOrg2Bp8Y1oPNVmoZAui/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
-</p>
 </p>
