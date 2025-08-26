@@ -22,7 +22,7 @@
 I am a Second-year Computer Engineering student driven by a fascination for decoding the stories hidden within data. I thrive on algorithmic challenges and am passionate about building projects that are both fun and functional.
 
 -   **Future Goal:** To build innovative **AI-based tools for education** and master the full data science lifecycle.
--   **Fun Fact:** My name is Thacker, but you can call me "JT-Hacker"—I promise my intentions are purely for code and data!
+-   **Fun Fact:** My name is Jay Thacker, but you can call me "JT-Hacker"—I promise my intentions are purely for code and data!
 
 ---
 
