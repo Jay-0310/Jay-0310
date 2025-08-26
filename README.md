@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/RgzryV9nRCMHPttbJc/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="300"/>
 </div>
 
 <div id="header" align="center">
   <h1>
-    Hi there, I'm Jay T-Hacker 
+    Greetings, I'm Jay T-Hacker 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>A B.Tech Student turning data into insights and coffee into code.</h3>
+  <h3>A B.Tech student from Mumbai, India, crafting code and crunching data.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me:
 
-I am a first-year **B.Tech Computer Engineering** student with a deep passion for decoding the stories hidden within data. My journey is fueled by a fascination with **Data Science 📈, Artificial Intelligence 🤖, and Machine Learning 🧠**. I thrive on algorithmic challenges and enjoy building projects that are both fun and functional.
+I am a first-year **B.Tech Computer Engineering** student at **KJ Somaiya School of Engineering**, with a deep passion for decoding the stories hidden within data. My journey is fueled by a fascination with **Data Science 📈, Artificial Intelligence 🤖, and Machine Learning 🧠**. I thrive on algorithmic challenges and enjoy building projects that are both fun and functional.
 
-- 🌱 I’m currently diving deeper into **Web Development** and mastering **Pandas & SQL** for data analysis.
+- 🌱 I'm currently diving deeper into **Web Development** and mastering **Pandas & SQL** for data analysis.
 - 🎯 Future Goal: To build innovative **AI-based tools for education** and master the full data science lifecycle.
-- ⚡ Fun fact: My name is Thacker, but you can call me "T-Hacker"—I promise my intentions are good!
+- ⚡ Fun fact: My name is Thacker, but you can call me "T-Hacker"—I promise my intentions are purely for code and data!
 
 ---
 
@@ -45,36 +45,12 @@ Here are the technologies I'm proficient with. I'm always eager to learn more!
 
 ---
 
-### ✨ Featured Project
+### 📊 My LeetCode Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong>Blackjack Web Game</strong> 🃏
-        <br><br>
-        A classic game of Blackjack built with fundamental web technologies. Test your luck and strategy against the dealer! 
-        <br><br>
-        <em>(Repository link coming soon!)</em>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/3o6Mb98sH3v235Ie2s/giphy.gif" alt="Blackjack GIF" width="200"/>
-      </td>
-    </tr>
-  </table>
-  <em>More data science and AI projects are currently in development!</em>
-</div>
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-0310&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Jay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-0310&layout=compact&theme=dracula&hide_border=true" alt="Jay's Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-0310&theme=dracula&hide_border=true" alt="Jay's Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Jay-0310&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Jay's Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%27s%20bad.&author=Cory%20House" width="600" height="150"/>
+  <br/>
+  <img src="https://leetcode-stats.vercel.app/api?username=Jay_0310&theme=dark&show_rank=true" width="400"/>
 </div>
 
 ---
@@ -82,12 +58,12 @@ Here are the technologies I'm proficient with. I'm always eager to learn more!
 ### 💡 Just for Fun
 
 <details align="center">
-  <summary>Click for a Data Science Joke!</summary>
+  <summary>Click for a Data Science / AI Joke!</summary>
   <p>
     <br>
-    <strong>Why did the machine learning model get a promotion?</strong>
+    <strong>Why did the AI break up with the Data Scientist?</strong>
     <br>
-    <em>Because it consistently delivered a high-performance review!</em>
+    <em>It said he had too many "unsupervised learning" habits!</em>
   </p>
 </details>
 
@@ -98,8 +74,14 @@ Here are the technologies I'm proficient with. I'm always eager to learn more!
 Feel free to reach out for collaborations, questions, or just a friendly chat.
 
 <p align="center">
+<p align="center">
   <a href="mailto:jaythakkar0310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/jay-thacker-0a98102a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/JayThacker0310"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/></a>
+  <br>
+  <a href="https://github.com/Jay-0310"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/Jay_0310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/j_thacker"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://drive.google.com/file/d/1WotaGf09BbsupOrg2Bp8Y1oPNVmoZAui/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+</p>
 </p>
